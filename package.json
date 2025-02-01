@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ashokmadagoni.github.io/react-day2",
+  "homepage": "https://ashokmadagoni.github.io/react-day2"
+,
 
   "scripts": {
     "predeploy": "npm run build",
